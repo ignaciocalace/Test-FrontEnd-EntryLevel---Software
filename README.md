@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-In folder crudCrud folder, there is an a config.js where you can change the resource value of CrudCrud.
+In crudCrud folder, there is an a config.js where you can change the resource value of CrudCrud.
 
 ## Available Scripts
 
